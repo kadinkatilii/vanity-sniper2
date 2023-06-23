@@ -1,4 +1,6 @@
-# Discord-Vanity-URL-Sniper
+# Kodun çok daha gelişmiş ve premium bir halini satın almak istiyor iseniz DISCORD: @kadinkatili ekleyerek satın alabilirsiniz.
+
+## Discord-Vanity-URL-Sniper
 Özel davet bağlantılarını api kontrolü yöntemi ile 0.0001 Milisaniyede bir kontrol eder ve Sunucuya Alır.
 
 ## Kod Hakkında
